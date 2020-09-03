@@ -6,8 +6,9 @@ Last update 3-September 2020
 
 Car Insurance Online Quotation
 
-1)3 Different Car models, each will return different price
+1) 3 Different Car models, each will return different price
 2) Each year the cost of the insurance should decrease 3%.
+
 3) Basic and Complete coverage will have different prices.
 
 
